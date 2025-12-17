@@ -3,17 +3,16 @@
 Sistema completo desarrollado en Java para gestionar tareas y recursos, con funcionalidades avanzadas de búsqueda, filtros y reportes estadísticos.
 
 ![Java](https://img.shields.io/badge/Java-25-orange?style=flat&logo=java)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ## Características
 
 ### Gestión de Tareas
 
-- ✅ Crear, editar y eliminar tareas
-- ✅ Asignar prioridades (Baja, Media, Alta, Urgente)
-- ✅ Estados personalizables (Pendiente, En Progreso, Completada, Cancelada)
-- ✅ Control de fechas límite
-- ✅ Vinculación con recursos del inventario
+- Crear, editar y eliminar tareas
+- Asignar prioridades (Baja, Media, Alta, Urgente)
+- Estados personalizables (Pendiente, En Progreso, Completada, Cancelada)
+- Control de fechas límite
+- Vinculación con recursos del inventario
 
 ### Gestión de Inventario
 
@@ -73,7 +72,7 @@ javac -d bin src/modelo/*.java src/servicio/*.java src/Main.java
 java -cp bin Main
 ```
 
-## 📖 Uso
+## Uso
 
 Al ejecutar el programa, verás un menú interactivo con las siguientes opciones:
 
@@ -88,20 +87,11 @@ Al ejecutar el programa, verás un menú interactivo con las siguientes opciones
 ====================================
 ```
 
-## Próximas Mejoras
-
-- [ ] Persistencia de datos con JSON
-- [ ] Base de datos (MySQL/PostgreSQL)
-- [ ] Interfaz gráfica (JavaFX)
-- [ ] Sistema de categorías y proyectos
-- [ ] Exportación de reportes a CSV/PDF
-- [ ] API REST con Spring Boot
 
 **Ana Rey**
 
 - GitHub: [@aniitaa-reey](https://github.com/aniitaa-reey)
 - LinkedIn: [Ana Rey](https://linkedin.com/in/ana-rey-05243232b)
 
-  Si te gustó este proyecto, dale una estrella en GitHub!
 
-Copyright (c) 2025 [Ana Rey]
+Diciembre 2025 - Ana Rey
